@@ -28,7 +28,7 @@ int main(){
 	}while(true);
 	
 	
-	cout << "In total "<<num-1<<" students."<<"\n";
+	cout << "In total "<<num-2<<" students."<<"\n";
 	cout << "A = " << count[0] <<",";
 	cout << "B = " << count[1] <<",";
 	cout << "C = " << count[2] <<",";	
